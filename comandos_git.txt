@@ -1,0 +1,4 @@
+git init crear carpeta git
+git status estado
+git add .    preparacion
+git commit estado de guardar	
